@@ -1,10 +1,25 @@
-import './brand.css'
+import React from 'react';
+import { brichandbez, slack, atlassian, dropbox, shopify } from './imports';
+import './brand.css';
 
+const Brand = () => (
+  <div className="gpt3__brand section__padding">
+    <div>
+      <img src={brichandbez} alt={'brand_image'} style={{width: '12rem'}}  />
+    </div>
+    <div>
+      <img src={slack} alt={'brand_image'} />
+    </div>
+    <div>
+      <img src={atlassian} alt={'brand_image'} />
+    </div>
+    <div>
+      <img src={dropbox} alt={'brand_image'} />
+    </div>
+    <div>
+      <img src={shopify} alt={'brand_image'}  />
+    </div>
+  </div>
+);
 
-const Brand = () => {
-    return ( 
-        <div>Brand</div>
-     );
-}
- 
 export default Brand;
