@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/brichandbezAi/static/css/main.e6412b58.css",
+    "main.js": "/brichandbezAi/static/js/main.899d803b.js",
+    "static/media/ai.png": "/brichandbezAi/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/brichandbezAi/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/brichandbezAi/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/brichandbezAi/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/brichandbezAi/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/brichandbezAi/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/brichandbezAi/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/brichandbezAi/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/google.png": "/brichandbezAi/static/media/google.c8c3ced8fc5abab8fa04.png",
+    "static/media/logo.png": "/brichandbezAi/static/media/logo.ac2efd6d388a456f2304.png",
+    "index.html": "/brichandbezAi/index.html",
+    "main.e6412b58.css.map": "/brichandbezAi/static/css/main.e6412b58.css.map",
+    "main.899d803b.js.map": "/brichandbezAi/static/js/main.899d803b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6412b58.css",
+    "static/js/main.899d803b.js"
+  ]
+}
