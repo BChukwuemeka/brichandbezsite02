@@ -25,7 +25,7 @@ const Navbar = () => {
     <div className="BnB__navbar">
       <div className="BnB__navbar-links">
         <div className="BnB__navbar-links_logo">
-          <img src={logo} />
+          <img src={logo} alt='logo'/>
         </div>
         <div className="BnB__navbar-links_container">
         <Menu />

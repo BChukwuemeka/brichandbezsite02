@@ -5,16 +5,16 @@ import './whatBnB.css';
 const WhatBnB = () => (
   <div className="BnB__whatBnB section__margin" id="wBnB">
     <div className="BnB__whatBnB-feature">
-      <Feature title="About Us" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by." />
+      <Feature title="Who Are We?" text="At Brich and Bez AI, we are passionate about leveraging the latest advancements in artificial intelligence to transform the way businesses operate. Our team of experts brings together a wealth of experience in machine learning, data analytics, and software development to deliver cutting-edge solutions that drive results." />
     </div>
     <div className="BnB__whatBnB-heading">
       <h1 className="gradient__text">The possibilities are beyond your imagination</h1>
       <p>Explore the Library</p>
     </div>
     <div className="BnB__whatBnB-container">
-      <Feature title="Chatbots" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought." />
-      <Feature title="Knowledgebase" text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b" />
-      <Feature title="Education" text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b" />
+      <Feature title="Chatbots" text="Our AI chatbot is intelligent, responsive, and always available to provide instant support to your customers. It offers personalized and efficient customer service with its advanced natural language processing capabilities." />
+      <Feature title="Knowledgebase" text="With a commitment to innovation, quality, and customer satisfaction, we strive to empower organizations of all sizes to unlock the full potential of AI." />
+      <Feature title="Education" text="At Brich and Bez AI, we are passionate about leveraging the latest advancements in artificial intelligence to transform the way businesses operate. " />
     </div>
   </div>
 );

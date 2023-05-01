@@ -1,16 +1,16 @@
 import React from 'react';
-import possibilityImage from '../../assets/possibility.png';
+import ai from '../../assets/ai.png'
 import './possibility.css';
 
 const Possibility = () => (
   <div className="BnB__possibility section__padding" id="possibility">
     <div className="BnB__possibility-image">
-      <img src={possibilityImage} alt="possibility" />
+      <img src={ai} alt="possibility" />
     </div>
     <div className="BnB__possibility-content">
       <h4>Request Early Access to Get Started</h4>
       <h1 className="gradient__text">The possibilities are <br /> beyond your imagination</h1>
-      <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
+      <p>Artificial Intelligence (AI) is a rapidly growing field that is transforming the way we interact with technology. As businesses strive to stay ahead of the curve, AI is becoming an essential tool for staying competitive. With brich and bez AI businesses alike, the possibilities of AI are vast and varied.</p>
       <h4>Request Early Access to Get Started</h4>
     </div>
   </div>

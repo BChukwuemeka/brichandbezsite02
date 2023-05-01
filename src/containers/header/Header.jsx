@@ -1,6 +1,9 @@
 import './header.css'
 import people from '../../assets/people.png'
-import ai from '../../assets/ai.png'
+import possibilityImage from '../../assets/possibility.png';
+
+
+
 
 const Header = () => {
     return ( 
@@ -9,7 +12,7 @@ const Header = () => {
                 <h1 className='gradient__text'>
                 Let's Build Something amazing with BnB OpenAi
                 </h1>
-                <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
+                <p>From predictive analytics to natural language processing, our platform offers a range of advanced capabilities to help you stay ahead of the curve. Discover what AI can do for you today!</p>
 
 
                 <div className="BnB__header-content__input">
@@ -23,7 +26,7 @@ const Header = () => {
 
             </div>
                 <div className="BnB__header-image">
-                <img src={ai} alt="ai" />
+                <img src={possibilityImage} alt="ai" />
 
                 </div>
         </div>

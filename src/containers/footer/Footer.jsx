@@ -5,7 +5,7 @@ import './footer.css';
 const Footer = () => (
   <div className="BnB__footer section__padding">
     <div className="BnB__footer-heading">
-      <h1 className="gradient__text">Do you want to step in to the future before others</h1>
+      <h1 className="gradient__text">Step into the future before others</h1>
     </div>
 
     <div className="BnB__footer-btn">
